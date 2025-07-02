@@ -24,7 +24,8 @@ It provides a user-friendly interactive menu (`surbash`) to manage the tunnel se
 
 Run the following command on your server to start the installation:
 
-bash <(curl -sSL https://irasht.com/backend/uploads/dl/udp2raw.sh)
+## Install & Run
+    bash <(curl -sSL https://irasht.com/backend/uploads/dl/udp2raw.sh)
 
 
 You will be prompted to:
@@ -43,7 +44,8 @@ You will be prompted to:
 
 After the initial setup, use the `surbash` command at any time to manage the tunnel:
 
-surbash
+## Run
+    surbash
 
 
 Available options in the menu:
@@ -85,4 +87,4 @@ If this project was useful to you, please consider starring ⭐ the repository o
 
 ## ☕ Author
 
-- Built with ❤️ by [@yourgithubusername](https://github.com/maziar-gh)
+- Built with ❤️ by [@maziar-gh](https://github.com/maziar-gh)

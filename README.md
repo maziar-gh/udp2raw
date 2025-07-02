@@ -77,7 +77,6 @@
 
 ## ☕ نویسنده
 
-- ساخته شده توسط [@yourgithubusername](https://github.com/yourgithubusername)
-- انتشار اولیه: تیر ۱۴۰۳
+- ساخته شده توسط [@maziar-gh](https://github.com/maziar-gh)
 
 
